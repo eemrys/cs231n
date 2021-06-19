@@ -33,4 +33,3 @@ The notebook [`two_layer_net.ipynb`](https://github.com/eemrys/cs231n/blob/assig
 ## Q5: Higher Level Representations: Image Features
 
 The notebook [`features.ipynb`](https://github.com/eemrys/cs231n/blob/assignment_1/assignment1/features.ipynb) will examine the improvements gained by using higher-level representations as opposed to using raw pixel values.
-
